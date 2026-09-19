@@ -28,7 +28,7 @@ BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 OWNER_1 = "Yul"
 OWNER_2 = "Sam"
 
-DB_FILE = "luggage_market.db"
+DB_FILE = "/data/luggage_market.db"
 
 
 # ============================================================
